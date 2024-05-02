@@ -6,5 +6,5 @@ sites:
     url: https://www.google.com
   - name: Naver
     url: https://www.naver.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Dcamp
+    url: https://dcamp.kr
