@@ -8,3 +8,7 @@ sites:
     url: https://www.naver.com
   - name: Dcamp
     url: https://dcamp.kr
+
+status-website:
+  baseUrl: /upptime
+  name: Your Status Website
