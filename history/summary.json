@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 74,
-    "timeWeek": 119,
-    "timeMonth": 99,
-    "timeYear": 118,
-    "dailyMinutesDown": {}
+    "time": 124,
+    "timeDay": 280,
+    "timeWeek": 164,
+    "timeMonth": 111,
+    "timeYear": 124,
+    "dailyMinutesDown": {
+      "2024-06-24": 0
+    }
   },
   {
     "name": "Naver",
