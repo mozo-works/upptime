@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 213,
-    "timeWeek": 155,
-    "timeMonth": 111,
-    "timeYear": 124,
-    "dailyMinutesDown": {
-      "2024-06-24": 10
-    }
+    "time": 122,
+    "timeDay": 209,
+    "timeWeek": 153,
+    "timeMonth": 110,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Naver",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 779,
-    "timeDay": 2546,
-    "timeWeek": 1057,
-    "timeMonth": 858,
-    "timeYear": 779,
+    "time": 771,
+    "timeDay": 277,
+    "timeWeek": 945,
+    "timeMonth": 821,
+    "timeYear": 771,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 1030,
+    "time": 1137,
+    "timeDay": 1101,
     "timeWeek": 1158,
-    "timeMonth": 1133,
-    "timeYear": 1138,
+    "timeMonth": 1082,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   }
 ]
