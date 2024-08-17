@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 90,
+    "timeDay": 87,
     "timeWeek": 91,
-    "timeMonth": 120,
+    "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 969,
-    "timeWeek": 807,
-    "timeMonth": 825,
-    "timeYear": 791,
+    "time": 790,
+    "timeDay": 646,
+    "timeWeek": 757,
+    "timeMonth": 821,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dcamp.kr.ico",
     "slug": "dcamp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1145,
-    "timeDay": 1123,
-    "timeWeek": 1093,
-    "timeMonth": 1129,
-    "timeYear": 1145,
-    "dailyMinutesDown": {
-      "2024-08-16": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1142,
+    "timeDay": 1021,
+    "timeWeek": 1051,
+    "timeMonth": 1122,
+    "timeYear": 1142,
+    "dailyMinutesDown": {}
   }
 ]
