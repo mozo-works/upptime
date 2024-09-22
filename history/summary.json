@@ -22,9 +22,9 @@
     "url": "https://www.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.naver.com.ico",
     "slug": "naver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1758,
     "timeMonth": 1104,
     "timeYear": 860,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-22": 0
+    }
   },
   {
     "name": "Dcamp",
