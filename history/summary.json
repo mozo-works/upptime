@@ -22,7 +22,7 @@
     "url": "https://www.naver.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.naver.com.ico",
     "slug": "naver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 1132,
     "timeYear": 870,
     "dailyMinutesDown": {
+      "2024-10-12": 0,
       "2024-09-22": 25
     }
   },
