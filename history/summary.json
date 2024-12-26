@@ -42,9 +42,9 @@
     "url": "https://dcamp.kr",
     "icon": "https://icons.duckduckgo.com/ip3/dcamp.kr.ico",
     "slug": "dcamp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1026,
     "timeMonth": 1058,
     "timeYear": 1132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-26": 0
+    }
   }
 ]
